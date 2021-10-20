@@ -1,0 +1,41 @@
+body {
+    background-color:  #141718 !important;
+}
+
+.container-fluid {
+    background-color:  #141718 !important;
+}
+
+.navbar-custom {
+    background-color:  #181c1f !important;
+}
+
+.testing {
+    color: #c23616 !important;
+}
+
+
+
+.thumbnail-container {
+    border: 1px solid red;
+}
+
+img {
+    border: 1px solid blue;
+}
+
+.stream-info {
+    font-size: 10px;
+}
+
+.stream-info-container {
+    border: 1px solid purple;
+    width: 100%;
+    height: 50px;
+}
+
+.stream-data {
+    font-size: 11px;
+}
+
+
